@@ -9,11 +9,6 @@ Textrovert is a React Native mobile application designed to find definitions of 
 - **User-Friendly Interface**: Intuitive design for easy navigation and interaction.
 - **Offline Support**: Basic caching mechanism to store recent searches for offline access.
 - **Customization Options**: Settings to adjust font size or theme preferences.
-- **Feedback and Rating**: Option to provide feedback and rate the app.
-
-## Screenshots
-
-Include screenshots of your app here to showcase its interface and features.
 
 
 ### Prerequisites
