@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { View, Text, TextInput, Button, StyleSheet } from 'react-native';
-import usersData from './users.json'; // Import users data from JSON file
+import usersData from '../users.json'; // Import users data from JSON file
 
 const LoginScreen = ({ navigation }) => {
   const [email, setEmail] = useState('');
