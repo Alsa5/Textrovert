@@ -1,0 +1,38 @@
+{
+  "expo": {
+    "name": "Textrovert",
+    "slug": "TextrovertedGenZ",
+    "description": "Know the GenZ terms",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.alsa5.Textrovert"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "ac244dc9-a3ec-4008-a16d-42e864f7ccd2"
+      }
+    },
+    "owner": "alsa5"
+  }
+}
